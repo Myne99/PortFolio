@@ -6,7 +6,8 @@ layout: "simple"
 
 ## Welcome to My About Page
 
-{{< figure src="/img/mai.png" title="Mai pic" class="w-1/4 h-1/4 mx-auto" >}}
+![Mai pic](/img/mai.png)
+{{< figure src="/img/portfolio/donut.png" title="Donut" >}}
 
 I'm a student at Universiti Teknikal Malaysia Melaka (UTeM) with a background in Information Technology and a keen interest in immersive VR experiences, game programming and 3D modelling.
 
