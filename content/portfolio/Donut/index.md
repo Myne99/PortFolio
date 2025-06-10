@@ -14,7 +14,7 @@ I made this donut as my first 3D project using Blender. I started with basic sha
  ![My First Donuts](/img/portfolio/donut_yay.png) 
 ![My First Donuts](/img/portfolio/donuts.png)
 
-{{< button href="https://myne99.github.io/PortFolio/portfolio" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/" target="_self" >}}
 Back to Portfolio
 {{< /button >}}
 

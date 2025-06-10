@@ -24,7 +24,7 @@ View Project
 
 A 3D snow globe scene made in Blender, combining text, winter assets, and lighting to create a fun, festive promotional concept.
 
-{{< button href="https://myne99.github.io/PortFolio/portfolio/snowglobe" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/snowglobe/" target="_self" >}}
 View Project
 {{< /button >}}
 
@@ -35,7 +35,7 @@ View Project
 
 A basic 2D platformer created in C++ with OpenGL. Includes jumping, collectible coins, and restart functionality. Built as part of a Game Engine Development class.
 
-{{< button href="https://myne99.github.io/PortFolio/portfolio/gedassigment" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/gedassigment/" target="_self" >}}
 View Project
 {{< /button >}}
 
@@ -45,6 +45,6 @@ View Project
 
 A 2D flying game built with OpenGL. As the second programmer, I implemented procedural generation for obstacles and a scrolling background.
 
-{{< button href="https://myne99.github.io/PortFolio/portfolio/groupproject" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/groupproject/" target="_self" >}}
 View Project
 {{< /button >}}
