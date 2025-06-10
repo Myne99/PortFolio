@@ -1,7 +1,7 @@
 ---
 title: "Academic History"
 description: "My educational journey and accomplishments"
-layout: "simple"
+#layout: "simple"
 ---
 
 ## Education

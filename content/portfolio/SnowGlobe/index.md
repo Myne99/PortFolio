@@ -1,7 +1,7 @@
 ---
 title: "Wow Big Sale Snow Globe"
 description: "The one that started it all"
-layout: "simple"
+#layout: "simple"
 ---
 
 {{< youtubeLite id="YetqPJTMNMQ" label="Blowfish-tools demo" >}}

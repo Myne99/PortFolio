@@ -1,7 +1,7 @@
 ---
 title: "Contact Me"
 description: "How to reach me"
-layout: "simple"
+#layout: "simple"
 ---
 
 ## Get In Touch

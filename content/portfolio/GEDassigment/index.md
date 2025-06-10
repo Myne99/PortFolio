@@ -1,7 +1,7 @@
 ---
 title: "OpenGL Platformer Game"
 description: "The Assignment"
-layout: "simple"
+#layout: "simple"
 ---
 {{< youtubeLite id="bUwgffawyYA" label="Blowfish-tools demo" >}}
 

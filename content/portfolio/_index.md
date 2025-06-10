@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 description: "A showcase of my projects and creative work"
-layout: "simple"
+#layout: "simple"
 ---
 
 ## My Projects

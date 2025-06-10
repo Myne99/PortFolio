@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: "Personal Portfolio & Academic Journey"
-layout: "simple"
+#layout: "simple"
 ---
 
 ## Welcome to My About Page

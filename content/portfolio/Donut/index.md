@@ -1,7 +1,7 @@
 ---
 title: "My First Donuts"
 description: "The one that started it all"
-layout: "simple"
+#layout: "simple"
 ---
 
 ![My First Donuts](/img/portfolio/donut.png)

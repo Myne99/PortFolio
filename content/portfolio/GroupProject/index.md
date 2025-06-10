@@ -1,7 +1,7 @@
 ---
 title: "Wing It By No Game Plan"
 description: "The one that started it all"
-layout: "simple"
+#layout: "simple"
 ---
 {{< youtubeLite id="DgZjRJHJcAo" label="Blowfish-tools demo" >}}
 
