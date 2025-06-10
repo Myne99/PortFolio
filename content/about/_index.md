@@ -6,8 +6,7 @@ description: "Personal Portfolio & Academic Journey"
 
 ## Welcome to My About Page
 
-![Mai pic](/img/mai.png)
-{{< figure src="/img/portfolio/donut.png" title="Donut" >}}
+![Mai pic](/static/img/mai.png)
 
 I'm a student at Universiti Teknikal Malaysia Melaka (UTeM) with a background in Information Technology and a keen interest in immersive VR experiences, game programming and 3D modelling.
 
