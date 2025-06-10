@@ -11,6 +11,6 @@ A student passionate about immersive VR gaming and 3D arts.
 
 I enjoy exploring how immersive technology and creative design can bring digital experiences to life.
 
-{{< button href="http://localhost:1313/about/" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/about/" target="_self" >}}
 More about me
 {{< /button >}}

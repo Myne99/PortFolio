@@ -11,6 +11,6 @@ I focused on core gameplay mechanics like movement, collision detection, and rea
 
 The project also gave me experience working with OpenGL rendering, basic UI elements, and restart functionality. It was a fun way to explore how platformers are built from the ground up, and it really helped strengthen my understanding of game loop logic and input handling.
 
-{{< button href="http://localhost:1313/portfolio" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio" target="_self" >}}
 Back to Portfolio
 {{< /button >}}

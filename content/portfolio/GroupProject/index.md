@@ -11,6 +11,6 @@ The game world features scrolling clouds, enemy planes, and randomly triggered m
 
  This project helped me develop stronger skills in OpenGL rendering, object behavior programming, and basic AI-like movement. It was also a fun way to learn how to make a game feel dynamic and unpredictable using relatively simple mechanics.
 
- {{< button href="http://localhost:1313/portfolio" target="_self" >}}
+ {{< button href="https://myne99.github.io/PortFolio/portfolio" target="_self" >}}
 Back to Portfolio
 {{< /button >}}

@@ -14,7 +14,7 @@ Here's a collection of projects I've worked on during my academic journey and pe
 
 My first 3D project using Blender. I learned basic modeling, texturing, and rendering by creating a realistic donut.
 
-{{< button href="http://localhost:1313/portfolio/Donut" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/Donut" target="_self" >}}
 View Project
 {{< /button >}}
 
@@ -24,7 +24,7 @@ View Project
 
 A 3D snow globe scene made in Blender, combining text, winter assets, and lighting to create a fun, festive promotional concept.
 
-{{< button href="http://localhost:1313/portfolio/SnowGlobe" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/SnowGlobe" target="_self" >}}
 View Project
 {{< /button >}}
 
@@ -35,7 +35,7 @@ View Project
 
 A basic 2D platformer created in C++ with OpenGL. Includes jumping, collectible coins, and restart functionality. Built as part of a Game Engine Development class.
 
-{{< button href="http://localhost:1313/portfolio/GEDassigment" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/GEDassigment" target="_self" >}}
 View Project
 {{< /button >}}
 
@@ -45,6 +45,6 @@ View Project
 
 A 2D flying game built with OpenGL. As the second programmer, I implemented procedural generation for obstacles and a scrolling background.
 
-{{< button href="http://localhost:1313/portfolio/GroupProject" target="_self" >}}
+{{< button href="https://myne99.github.io/PortFolio/portfolio/GroupProject" target="_self" >}}
 View Project
 {{< /button >}}
