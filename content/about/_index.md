@@ -8,21 +8,20 @@ layout: "simple"
 
 {{< figure src="/img/mai.png" class="w-1/4 h-1/4 mx-auto" >}}
 
-I'm a dedicated student with a passion for information technology and networking. My journey in the tech world has equipped me with practical skills in network configuration, cybersecurity, and IT troubleshooting.
+I'm a student at Universiti Teknikal Malaysia Melaka (UTeM) with a background in Information Technology and a keen interest in immersive VR experiences, game programming and 3D modelling.
 
 This portfolio showcases my academic journey, skills, and projects - reflecting my commitment to technical excellence and continuous learning.
 
 ### Personal Information
 
-- **Name:** Mai
-- **Education:** Diploma in Information Technology (Networking)
-- **Institution:** Politeknik Kuching Sarawak
-- **Email:** mai@ffxiv.com
+- **Name:** Dayang Maisarah Binti Abang Bajury
+- **Current Education:** Bachelor of Information Technology (Game Technology)
+- **Institution:** Universiti Teknikal Malaysia Melaka (UTeM)
+- **Email:** dygmaisarah17@gmail.com
 
 ### Professional Interests
 
-- Network Security
-- System Administration
-- IT Infrastructure Design
-- Cybersecurity
-- Cloud Computing
+- Virtual Reality (VR) Development
+- 3D Modeling & Animation
+- Game Design & Development
+- Motion Graphics

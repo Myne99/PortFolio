@@ -8,20 +8,43 @@ layout: "simple"
 
 Here's a collection of projects I've worked on during my academic journey and personal development.
 
-### Network Security Implementation
+### My First Donuts
 
-![Network Security Project](/img/portfolio/donut.png)
+![My First Donuts](/img/portfolio/donut.png)
 
-A comprehensive network security implementation for a small business, including firewall setup, intrusion detection, and secure VPN access.
+My first 3D project using Blender. I learned basic modeling, texturing, and rendering by creating a realistic donut.
 
-{{< button href="https://github.com/yourusername/network-security-project" target="_blank" >}}
+{{< button href="http://localhost:1313/portfolio/Donut" target="_self" >}}
 View Project
 {{< /button >}}
 
-### Cisco Network Configuration
+### Wow Big Sale Snow Globe
 
-![Cisco Project](/img/portfolio/donut.png)
+![Snow Globe Project](/img/portfolio/wbs_snowglobe.png)
 
-Designed and implemented a complete network infrastructure using Cisco equipment, including routing, switching, and VLANs.
+A 3D snow globe scene made in Blender, combining text, winter assets, and lighting to create a fun, festive promotional concept.
 
-{{< youtube id="dQw4w9WgXcQ" title="Cisco Network Configuration Demo" >}}
+{{< button href="http://localhost:1313/portfolio/SnowGlobe" target="_self" >}}
+View Project
+{{< /button >}}
+
+
+### OpenGL Platformer Game
+
+![ged assigment](/img/portfolio/Screenshot.png)
+
+A basic 2D platformer created in C++ with OpenGL. Includes jumping, collectible coins, and restart functionality. Built as part of a Game Engine Development class.
+
+{{< button href="http://localhost:1313/portfolio/GEDassigment" target="_self" >}}
+View Project
+{{< /button >}}
+
+### Wing it By No Game Plan
+
+![wing it](/img/portfolio/Screenshot2.png)
+
+A 2D flying game built with OpenGL. As the second programmer, I implemented procedural generation for obstacles and a scrolling background.
+
+{{< button href="http://localhost:1313/portfolio/GroupProject" target="_self" >}}
+View Project
+{{< /button >}}

@@ -9,4 +9,8 @@ Hello, I am Dayang Maisarah Binti Abang Bajury.
 
 A student passionate about immersive VR gaming and 3D arts.
 
-I enjoy exploring how immersive technology and creative design can bring d igital experiences to life.
+I enjoy exploring how immersive technology and creative design can bring digital experiences to life.
+
+{{< button href="http://localhost:1313/about/" target="_self" >}}
+More about me
+{{< /button >}}

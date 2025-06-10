@@ -36,7 +36,7 @@ layout: "simple"
 
 ### Soft Skills
 - Problem-solving
-- Teamwork and collaboration
-- Time management
+- Analytical Thinking
+- Technical Curiosity
 - Technical communication
-- Adaptability
+- Willingness to Learn

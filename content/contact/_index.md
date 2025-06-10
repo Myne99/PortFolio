@@ -14,7 +14,7 @@ Petra Jaya, 93050,
 Kuching, Sarawak
 
 ### Phone
-019-4858838
+[019-4858838](https://wa.me/60194858838)
 
 ### Email
 [dygmaisarah19@gmail.com](mailto:dygmaisarah19@gmail.com)
@@ -23,6 +23,5 @@ Kuching, Sarawak
 
 ### Social Media
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
-- [Instagram](https://instagram.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/dayang-maisarah-binti-abang-bajury-a00294367/)
+- [GitHub](https://github.com/Myne99)
