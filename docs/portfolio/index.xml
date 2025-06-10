@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Blowfish</title>
+    <link>https://myne99.github.io/PortFolio/portfolio/</link>
+    <description>Recent content in Portfolio on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="https://myne99.github.io/PortFolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Donuts</title>
+      <link>https://myne99.github.io/PortFolio/portfolio/donut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myne99.github.io/PortFolio/portfolio/donut/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenGL Platformer Game</title>
+      <link>https://myne99.github.io/PortFolio/portfolio/gedassigment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myne99.github.io/PortFolio/portfolio/gedassigment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wing It By No Game Plan</title>
+      <link>https://myne99.github.io/PortFolio/portfolio/groupproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myne99.github.io/PortFolio/portfolio/groupproject/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wow Big Sale Snow Globe</title>
+      <link>https://myne99.github.io/PortFolio/portfolio/snowglobe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myne99.github.io/PortFolio/portfolio/snowglobe/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
